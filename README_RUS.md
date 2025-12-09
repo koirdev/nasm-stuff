@@ -1,3 +1,7 @@
+[***Language / Язык***](https://github.com/koirdev/nasm-stuff/blob/main/README.md#language--%D1%8F%D0%B7%D1%8B%D0%BA)
+
+---
+
 # nasm-stuff
 _Изучение Ассемблера (NASM)_
 
@@ -17,3 +21,7 @@ _Изучение Ассемблера (NASM)_
 
 # Учу Ассемблер и использую код из:
 https://metanit.com/assembler/nasm/1.5.php
+
+# Language / Язык
+
+[***English (US)***](README.md)
