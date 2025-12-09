@@ -1,5 +1,8 @@
 
 [***Language / Язык***](https://github.com/koirdev/nasm-stuff/blob/main/README.md#language--%D1%8F%D0%B7%D1%8B%D0%BA)
+
+---
+
 # nasm-stuff
 _Learning Assembler (NASM)_
 
