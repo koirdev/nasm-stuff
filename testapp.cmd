@@ -1,4 +1,5 @@
 @echo Running...
 main.exe
-echo %ERRORLEVEL%
+@echo %ERRORLEVEL%
 pause
+
