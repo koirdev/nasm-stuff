@@ -5,11 +5,11 @@ _Learning Assembly (NASM)_
 ---
 - Windows (**win64**):
 
-```nasm -f win64 main.asm -o main.o``` - (you can also use the "[**build.bat**](build.bat)" file)
+```nasm -f win64 main.asm -o main.o``` - (you can also use the "[**build.cmd**](build.cmd)" file)
 
 # Linking
 
-```ld main.o -o main.exe``` - (you can also use the "[**build.bat**](build.bat)" file if you are on Windows)
+```ld main.o -o main.exe``` - (you can also use the "[**build.cmd**](build.cmd)" file if you are on Windows)
 
 # License
 
