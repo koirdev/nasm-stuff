@@ -9,11 +9,11 @@ _Изучение Ассемблера (NASM)_
 ---
 - Windows (**win64**):
 
-```nasm -f win64 main.asm -o main.o``` - (вы также можно использовать файл "[**build.cmd**](build.cmd)")
+```nasm -f win64 main.asm -o main.o``` - (вы также можете использовать файл "[**build.cmd**](build.cmd)")
 
 # Компановка
 
-```ld main.o -o main.exe``` - (вы также можно использовать файл "[**build.cmd**](build.cmd)" если вы используете Windows)
+```ld main.o -o main.exe``` - (вы также можете использовать файл "[**build.cmd**](build.cmd)" если вы используете Windows)
 
 # Лицензия
 
