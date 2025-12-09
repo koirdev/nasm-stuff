@@ -1,5 +1,5 @@
 # nasm-stuff
-_Learning Assembly (NASM)_
+_Learning Assembler (NASM)_
 
 # Compilation
 ---
@@ -14,3 +14,6 @@ _Learning Assembly (NASM)_
 # License
 
 Released under [***MIT*** *License*](LICENSE)
+
+# I'm learning Assembler and also using the code from:
+https://metanit.com/assembler/nasm/1.5.php
