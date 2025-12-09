@@ -20,7 +20,7 @@ _Learning Assembler (NASM)_
 
 Released under [***MIT*** *License*](LICENSE)
 
-# I'm learning Assembler and also using the code from:
+# Learning Assembler and also using the code from:
 https://metanit.com/assembler/nasm/1.5.php
 
 # Language / Язык
