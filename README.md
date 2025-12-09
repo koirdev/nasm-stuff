@@ -1,3 +1,5 @@
+
+[***Language / Язык***](https://github.com/koirdev/nasm-stuff/edit/main/README.md#im-learning-assembler-and-also-using-the-code-from)
 # nasm-stuff
 _Learning Assembler (NASM)_
 
@@ -17,3 +19,8 @@ Released under [***MIT*** *License*](LICENSE)
 
 # I'm learning Assembler and also using the code from:
 https://metanit.com/assembler/nasm/1.5.php
+
+# Language / Язык
+
+[***Russian / Русский***](README_RUS.md)
+
